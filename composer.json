@@ -1,0 +1,8 @@
+{
+    "name": "m4m/packagist-reserve",
+    "description": "A blank repo to reserve the namespace",
+    "require": {
+        "php": ">=7.4",
+        "another-vendor/package": "1.*"
+    }
+}
